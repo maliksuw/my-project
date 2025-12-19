@@ -1,1 +1,2 @@
 Hello Git on Ubuntu 24.04
+Update some text 
