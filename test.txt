@@ -1,4 +1,4 @@
-Hello Git on Ubuntu 24.04
+This is edited by My Friend
 Update some text 
 This is a new feature
 This is a third feature
